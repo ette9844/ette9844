@@ -1,5 +1,4 @@
-### Hi there 👋 
-I'm Hyejin, a full-stack developer who loves diving into new tech and taking on challenges.
+Full-stack developer who loves diving into new tech and taking on challenges.
 
 <br><br>
 
